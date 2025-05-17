@@ -42,7 +42,7 @@
 ### 💻 Languages & Frameworks  
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F.svg?style=flat&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB.svg?style=flat&logo=react&logoColor=black)
+![Flutter]([https://img.shields.io/badge/React-61DAFB.svg?style=flat&logo=react&logoColor=black](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white))
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
 
 ### ☁️ DevOps & Tools  
