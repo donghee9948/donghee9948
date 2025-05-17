@@ -74,7 +74,7 @@
 
 ## 📬 Reach Me
 
-[![Gmail](https://img.shields.io/badge/youremail@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ddonghee102030@gmail.com)
+[![Gmail](https://img.shields.io/badge/ddonghee102030@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ddonghee102030@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourname)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)]([https://velog.io/@yourid](https://www.notion.so/KT-1d3807253d99805281e9d71518218b54))
 
